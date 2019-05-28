@@ -35,5 +35,8 @@ Please include the url to your forked repository with the fixed webserver in you
 # Set up your server!
 - git fork and clone this repository
 - in the terminal, run ```npm i random-movie-quotes```
+- in the terminal, run ```npm i cors```
 - in the terminal, run ```node index.js```
 - in the browser, go to localhost:3000/quote to see a new quote.
+- in the terminal, cd into 'public' and open index.html
+- check out the browser quotes!
