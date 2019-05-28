@@ -30,3 +30,13 @@ Please include the url to your forked repository with the fixed webserver in you
 
 - [Random Movie Quotes NPM Docummentation](https://www.npmjs.com/package/random-movie-quotes)
 - [How to contribute to a github project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
+
+
+# Set up your server!
+- git fork and clone this repository
+- in the terminal, run ```npm i random-movie-quotes```
+- in the terminal, run ```npm i cors```
+- in the terminal, run ```node index.js```
+- in the browser, go to localhost:3000/quote to see a new quote.
+- in the terminal, cd into 'public' and open index.html
+- check out the browser quotes!
